@@ -1,0 +1,18 @@
+#archivo .contenedor{
+    width: 1000px;
+    height: 500px;
+    align-content: center;
+    justify-content: center;
+    border: 1px solid red;
+    line-height:0;
+    overflow-x:hidden; 
+    overflow-y:hidden;
+}
+
+iframe{    
+    width: 850px;
+    height: 500px;
+    margin: none;
+    padding: none;
+    border: none;
+}
